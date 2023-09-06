@@ -13,5 +13,3 @@
 </pre>
 
 <a href='https://github.com/Ambar-06/' ><img src="https://github.com/Ambar-06/Ambar-06/blob/main/snakegame.svg" width="100%"></a> 
-
-![](https://github.com/Ambar-06/Ambar-06/blob/main/snakegame.svg)
