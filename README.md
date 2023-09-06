@@ -13,4 +13,4 @@
 </pre>
 
 
-![](https://github.com/Ambar-06/Ambar-06/blob/main/snakegame.svg)
+![](https://github.com/Ambar-06/Ambar-06/blob/main/snakegame.svg)(https://github.com/Ambar-06)
