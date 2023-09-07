@@ -18,6 +18,8 @@
 
 ![Ambar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambar-06&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ambar-06&theme=dark)](https://git.io/streak-stats)
+
   <h2>Languages and Tools:</h2>
   
 [![My Skills](https://skillicons.dev/icons?i=python,django,nodejs,flask,javascript,fastapi,git,mysql,react,postman,vscode,awslambda&theme=light)](https://skillicons.dev)
