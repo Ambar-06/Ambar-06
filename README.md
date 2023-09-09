@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ambar Rizvi
+## Hi there 👋, I'm Ambar Rizvi
 
 
 
