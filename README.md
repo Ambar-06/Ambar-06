@@ -18,7 +18,7 @@
 
 ![Ambar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambar-06&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ambar-06&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-rjauq8u3l-ambar-06.vercel.app/?user=Ambar-06&theme=dark)](https://github.com/Ambar-06)
 
   <h2>Languages and Tools:</h2>
   
