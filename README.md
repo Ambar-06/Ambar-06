@@ -31,4 +31,4 @@
 <a href='https://github.com/Ambar-06/' ><img src="https://github.com/Ambar-06/Ambar-06/blob/main/snakegame.svg" width="100%"></a> 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ambar-06&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ambar-06&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
