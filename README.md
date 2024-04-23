@@ -1,5 +1,4 @@
-## Hi there [](https://github.com/Ambar-06/Ambar-06/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ambar Rizvi
-==================================================================================================================================
+## Hi there <img src="https://github.com/Ambar-06/Ambar-06/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="5%">, My name is Ambar Rizvi
 
 
 Python developer & AI Enthusiast
@@ -8,6 +7,13 @@ Python developer & AI Enthusiast
 - 🌱 I’m currently learning Advanced NodeJS
 - 👯 I’m looking to collaborate on OpenSource Projects
 - ⚡ Link to my [Portfolio](https://ambarr06.pythonanywhere.com/)
+
+Other things about me..
+--------------------------------
+* 🌍  I'm based in India
+* ✉️  You can contact me at [brannstrom9911@gmail.com](mailto:brannstrom9911@gmail.com)
+* 🤝  I'm open to collaborating on Python Backed web apps
+
 
 <h2>Trophies:</h2>
 
@@ -20,7 +26,7 @@ Python developer & AI Enthusiast
 
 ![Ambar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambar-06&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats-rjauq8u3l-ambar-06.vercel.app/?user=Ambar-06&theme=dark)](https://github.com/Ambar-06)
+<!--[![GitHub Streak](https://github-readme-streak-stats-rjauq8u3l-ambar-06.vercel.app?user=Ambar-06&theme=dark)](https://github.com/Ambar-06)-->
 
   <h2>Languages and Tools:</h2>
   
