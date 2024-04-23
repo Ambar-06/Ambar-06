@@ -1,7 +1,9 @@
-## Hi there 👋, I'm Ambar Rizvi
+## Hi there [](https://github.com/Ambar-06/Ambar-06/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ambar Rizvi
+==================================================================================================================================
 
 
-
+Python developer & AI Enthusiast
+--------------------------------
 - 🔭 I’m currently working on [Project](https://apnibus.com/)
 - 🌱 I’m currently learning Advanced NodeJS
 - 👯 I’m looking to collaborate on OpenSource Projects
