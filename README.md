@@ -3,16 +3,12 @@
 
 Python developer & AI Enthusiast
 --------------------------------
+- 🌍 I'm based in India
 - 🔭 I’m currently working on [Project](https://apnibus.com/)
 - 🌱 I’m currently learning Advanced NodeJS
-- 👯 I’m looking to collaborate on OpenSource Projects
+- 👯 I’m looking to collaborate on OpenSource Projects mainly Python Based Applications
 - ⚡ Link to my [Portfolio](https://ambarr06.pythonanywhere.com/)
-
-Other things about me..
---------------------------------
-* 🌍  I'm based in India
-* ✉️  You can contact me at [brannstrom9911@gmail.com](mailto:brannstrom9911@gmail.com)
-* 🤝  I'm open to collaborating on Python Backed web apps
+- ✉️ You can contact me at [brannstrom9911@gmail.com](mailto:brannstrom9911@gmail.com)
 
 
 <h2>Trophies:</h2>
