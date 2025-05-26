@@ -27,7 +27,7 @@ Python developer & AI Enthusiast
 
   <h2>Languages and Tools:</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=python,django,nodejs,flask,javascript,fastapi,git,mysql,react,postman,vscode,github,awslambda&theme=light)](https://github.com/Ambar-06)
+[![My Skills](https://skillicons.dev/icons?i=python,go,django,nodejs,flask,javascript,fastapi,git,mysql,react,postman,vscode,github,awslambda&theme=light)](https://github.com/Ambar-06)
 
 
 ### ✍️ Random Dev Quote
