@@ -1,7 +1,7 @@
 ## Hi there <img src="https://github.com/Ambar-06/Ambar-06/blob/main/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="5%">, My name is Ambar Rizvi
 
 
-Python developer & AI Enthusiast
+Python/Golang developer & AI Enthusiast
 --------------------------------
 - 🌍 I'm based in India
 - 🔭 I’m currently working on [FracProp](https://frac-prop.vercel.app)
